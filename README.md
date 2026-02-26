@@ -16,7 +16,7 @@ OccuBias is a structured prompt-based dataset designed to evaluate occupational 
 
 
 ## Associated Research
-This dataset accompanies the MSc by Research thesis:
+This dataset accompanies the MSc thesis:
 **"Occupational Gender Bias in Large Language Models: A Multi-Level Analysis Using the OccuBias Dataset"**
 
 ## License
