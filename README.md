@@ -1,7 +1,7 @@
 # OccuBias Dataset
 
 ## Overview
-OccuBias is a structured, prompt-based dataset designed to evaluate occupational gender bias in large language models (LLMs). It enables both behavioural (output-level) and representational (embedding-level) analysis of gender bias across professional contexts.
+OccuBias is a structured, prompt-based dataset designed to evaluate occupational gender bias in large language models (LLMs). It enables both behavioural (output-level) and representational (embedding-level) analysis of gender bias across professional contexts. The dataset of the thesis is also published in RADAR. The DOI is: https://doi.org/10.24384/nem2-4n87.
 
 ## Dataset Statistics
 - Total prompts: 6,300  
